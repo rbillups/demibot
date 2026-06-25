@@ -1,0 +1,142 @@
+[
+  {
+    "id": "historical_001",
+    "type": "historical_figure",
+    "name": "Frederick Douglass",
+    "text": "Born enslaved, Douglass taught himself to read in secret. Literacy became his path to freedom, leadership, and one of the most powerful voices for justice in American history.",
+    "category": "education"
+  },
+  {
+    "id": "historical_002",
+    "type": "historical_figure",
+    "name": "Booker T. Washington",
+    "text": "Born into slavery, Washington built Tuskegee Institute and preached practical education, discipline, and institution-building as the foundation of progress.",
+    "category": "leadership"
+  },
+  {
+    "id": "historical_003",
+    "type": "historical_figure",
+    "name": "Marcus Garvey",
+    "text": "Garvey organized millions through the Universal Negro Improvement Association, teaching self-reliance, pride, and economic independence on a global scale.",
+    "category": "community"
+  },
+  {
+    "id": "historical_004",
+    "type": "historical_figure",
+    "name": "Malcolm X",
+    "text": "From street life to global leadership, Malcolm X transformed himself through reading, discipline, and uncompromising clarity about identity and power.",
+    "category": "transformation"
+  },
+  {
+    "id": "historical_005",
+    "type": "historical_figure",
+    "name": "Toussaint Louverture",
+    "text": "A former enslaved man who became a military and political leader, Louverture helped lead Haiti to independence—the first successful slave revolt that became a nation.",
+    "category": "courage"
+  },
+  {
+    "id": "historical_006",
+    "type": "historical_figure",
+    "name": "Harriet Tubman",
+    "text": "Known as Moses, Tubman risked her life repeatedly to lead enslaved people to freedom. She later served as a spy and scout for the Union Army.",
+    "category": "courage"
+  },
+  {
+    "id": "historical_007",
+    "type": "historical_figure",
+    "name": "Benjamin Banneker",
+    "text": "A self-taught mathematician, astronomer, and surveyor, Banneker helped map Washington, D.C. and published almanacs that proved Black intellectual excellence.",
+    "category": "education"
+  },
+  {
+    "id": "historical_008",
+    "type": "historical_figure",
+    "name": "Marcus Aurelius",
+    "text": "Roman emperor and Stoic philosopher. He ruled during war and plague while writing Meditations—a private journal on discipline, duty, and self-mastery.",
+    "category": "discipline"
+  },
+  {
+    "id": "historical_009",
+    "type": "historical_figure",
+    "name": "Epictetus",
+    "text": "Born enslaved, Epictetus became one of the great Stoic teachers. His core lesson: freedom begins with mastering your judgments and reactions.",
+    "category": "mindset"
+  },
+  {
+    "id": "historical_010",
+    "type": "historical_figure",
+    "name": "Plato",
+    "text": "Student of Socrates and founder of the Academy. Plato explored justice, leadership, and the kind of person required to govern well.",
+    "category": "philosophy"
+  },
+  {
+    "id": "historical_011",
+    "type": "historical_figure",
+    "name": "Socrates",
+    "text": "He challenged Athens to think deeper, question assumptions, and pursue truth. His method: ask better questions until weak thinking collapses.",
+    "category": "education"
+  },
+  {
+    "id": "historical_012",
+    "type": "historical_figure",
+    "name": "Alexander the Great",
+    "text": "By his early thirties, Alexander had built one of history's largest empires through strategy, speed, training, and relentless execution.",
+    "category": "leadership"
+  },
+  {
+    "id": "historical_013",
+    "type": "historical_figure",
+    "name": "Hannibal Barca",
+    "text": "One of history's greatest military strategists, Hannibal crossed the Alps with elephants and repeatedly outmaneuvered a larger Roman force.",
+    "category": "strategy"
+  },
+  {
+    "id": "historical_014",
+    "type": "historical_figure",
+    "name": "Mansa Musa",
+    "text": "Emperor of Mali and one of history's wealthiest rulers. His pilgrimage to Mecca spread Mali's reputation for gold, learning, and culture across three continents.",
+    "category": "legacy"
+  },
+  {
+    "id": "historical_015",
+    "type": "historical_figure",
+    "name": "Henry Ford",
+    "text": "Ford did not invent the car, but he revolutionized manufacturing with the assembly line—making production faster, cheaper, and scalable.",
+    "category": "business"
+  },
+  {
+    "id": "historical_016",
+    "type": "historical_figure",
+    "name": "Andrew Carnegie",
+    "text": "From poverty to steel empire. Carnegie built massive wealth, then funded libraries and institutions that expanded public access to education.",
+    "category": "entrepreneurship"
+  },
+  {
+    "id": "historical_017",
+    "type": "historical_figure",
+    "name": "Muhammad Ali",
+    "text": "More than a boxer—Ali combined athletic greatness, conviction, charisma, and courage. He stood on principle even when it cost him everything.",
+    "category": "courage"
+  },
+  {
+    "id": "historical_018",
+    "type": "historical_figure",
+    "name": "Kobe Bryant",
+    "text": "The Mamba Mentality: obsessive preparation, daily reps, and a refusal to be outworked. Kobe built greatness through discipline long after talent stopped being enough.",
+    "category": "discipline"
+  },
+  {
+    "id": "historical_019",
+    "type": "historical_figure",
+    "name": "Nipsey Hussle",
+    "text": "Entrepreneur, artist, and community builder. Nipsey invested in ownership, local business, and long-term vision in the neighborhood he came from.",
+    "category": "community"
+  },
+  {
+    "id": "historical_020",
+    "type": "historical_figure",
+    "name": "Thomas Sowell",
+    "text": "Economist and thinker known for clear reasoning on incentives, culture, policy, and human behavior. His work rewards disciplined thinking over emotional reaction.",
+    "category": "education"
+  }
+]

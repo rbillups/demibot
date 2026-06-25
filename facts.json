@@ -1,0 +1,122 @@
+[
+  {
+    "id": "fact_001",
+    "type": "fact",
+    "text": "It takes roughly 66 days on average to form a new habit—not 21. Consistency matters more than intensity at the start.",
+    "category": "discipline"
+  },
+  {
+    "id": "fact_002",
+    "type": "fact",
+    "text": "Mansa Musa's pilgrimage to Mecca in the 1300s was so lavish that he reportedly disrupted gold markets across North Africa for years.",
+    "category": "history"
+  },
+  {
+    "id": "fact_003",
+    "type": "fact",
+    "text": "Frederick Douglass taught himself to read by trading bread for lessons from neighborhood children while enslaved.",
+    "category": "education"
+  },
+  {
+    "id": "fact_004",
+    "type": "fact",
+    "text": "Muscle memory is built through repetition. The brain strengthens neural pathways each time you practice a skill correctly.",
+    "category": "fitness"
+  },
+  {
+    "id": "fact_005",
+    "type": "fact",
+    "text": "Henry Ford's assembly line cut Model T production time from over 12 hours to about 90 minutes.",
+    "category": "business"
+  },
+  {
+    "id": "fact_006",
+    "type": "fact",
+    "text": "Malcolm X copied the entire dictionary by hand while in prison—word by word, page by page.",
+    "category": "discipline"
+  },
+  {
+    "id": "fact_007",
+    "type": "fact",
+    "text": "Sleep deprivation impairs decision-making similarly to alcohol intoxication. Discipline includes protecting recovery.",
+    "category": "health"
+  },
+  {
+    "id": "fact_008",
+    "type": "fact",
+    "text": "Hannibal crossed the Alps with tens of thousands of soldiers and war elephants—a feat still studied in military academies today.",
+    "category": "strategy"
+  },
+  {
+    "id": "fact_009",
+    "type": "fact",
+    "text": "Andrew Carnegie funded over 2,500 public libraries worldwide, expanding access to self-education for millions.",
+    "category": "education"
+  },
+  {
+    "id": "fact_010",
+    "type": "fact",
+    "text": "The compound effect: improving just 1% daily makes you roughly 37 times better over a year—not 365% better.",
+    "category": "growth"
+  },
+  {
+    "id": "fact_011",
+    "type": "fact",
+    "text": "Harriet Tubman made an estimated 13 missions to rescue enslaved people, never losing a passenger on her routes.",
+    "category": "courage"
+  },
+  {
+    "id": "fact_012",
+    "type": "fact",
+    "text": "Benjamin Banneker accurately predicted a solar eclipse and helped survey the land that became Washington, D.C.",
+    "category": "science"
+  },
+  {
+    "id": "fact_013",
+    "type": "fact",
+    "text": "Studies show that writing down goals increases the likelihood of achieving them—clarity creates commitment.",
+    "category": "psychology"
+  },
+  {
+    "id": "fact_014",
+    "type": "fact",
+    "text": "Kobe Bryant was known for 4 AM workouts and thousands of extra shots—his edge was repetition, not just talent.",
+    "category": "fitness"
+  },
+  {
+    "id": "fact_015",
+    "type": "fact",
+    "text": "Toussaint Louverture led the only successful large-scale slave revolt that resulted in the founding of a nation: Haiti.",
+    "category": "history"
+  },
+  {
+    "id": "fact_016",
+    "type": "fact",
+    "text": "Elon Musk reportedly read two books per day as a teenager—building the knowledge base that later fueled his ventures.",
+    "category": "education"
+  },
+  {
+    "id": "fact_017",
+    "type": "fact",
+    "text": "The Diderot Effect: acquiring one new item often triggers a chain of more purchases. Environment shapes behavior.",
+    "category": "psychology"
+  },
+  {
+    "id": "fact_018",
+    "type": "fact",
+    "text": "Marcus Aurelius wrote Meditations as private notes to himself—not for publication. Self-reflection was his daily discipline.",
+    "category": "discipline"
+  },
+  {
+    "id": "fact_019",
+    "type": "fact",
+    "text": "Nipsey Hussle owned his masters and invested in real estate in his neighborhood before major label deals defined his career.",
+    "category": "business"
+  },
+  {
+    "id": "fact_020",
+    "type": "fact",
+    "text": "Booker T. Washington's Tuskegee students built many of the campus buildings themselves—learning trade skills while constructing their school.",
+    "category": "institution_building"
+  }
+]

@@ -1,0 +1,401 @@
+[
+  {
+    "id": "builder_001",
+    "type": "builder",
+    "name": "Henry Ford",
+    "text": "Ford failed twice before Ford Motor Company succeeded. His breakthrough was not the car—it was the assembly line that made production scalable.",
+    "category": "entrepreneurship"
+  },
+  {
+    "id": "builder_002",
+    "type": "builder",
+    "name": "Nipsey Hussle",
+    "text": "Nipsey built a brand, then reinvested in his community—buying property, opening businesses, and teaching ownership as a long-term strategy.",
+    "category": "community"
+  },
+  {
+    "id": "builder_003",
+    "type": "builder",
+    "name": "Elon Musk",
+    "text": "Musk approaches problems as an engineer first: break systems down, identify bottlenecks, and rebuild with first-principles thinking.",
+    "category": "innovation"
+  },
+  {
+    "id": "builder_004",
+    "type": "builder",
+    "name": "Booker T. Washington",
+    "text": "Washington built Tuskegee brick by brick—literally. Students made the materials, constructed the buildings, and learned discipline through labor.",
+    "category": "institution_building"
+  },
+  {
+    "id": "builder_005",
+    "type": "builder",
+    "name": "Kobe Bryant",
+    "text": "Kobe did not rely on talent alone. He built greatness through daily reps, film study, and an obsession with details others ignored.",
+    "category": "discipline"
+  },
+  {
+    "id": "builder_006",
+    "type": "builder",
+    "name": "Andrew Carnegie",
+    "text": "Carnegie started with almost nothing, mastered the steel industry, then redirected wealth into libraries and education infrastructure.",
+    "category": "legacy"
+  },
+  {
+    "id": "builder_007",
+    "type": "builder",
+    "name": "Alex Hormozi",
+    "text": "Hormozi scaled gyms and acquisition businesses by focusing on volume, value, and execution—not motivation, hype, or shortcuts.",
+    "category": "business"
+  },
+  {
+    "id": "builder_008",
+    "type": "builder",
+    "name": "Naval Ravikant",
+    "text": "Naval built wealth through leverage: code, media, capital, and judgment. His lesson: specific knowledge plus accountability compounds over time.",
+    "category": "business"
+  },
+  {
+    "id": "builder_009",
+    "type": "builder",
+    "name": "David Goggins",
+    "text": "Goggins rebuilt himself from obesity and insecurity into an elite operator through brutal honesty, suffering, and daily accountability.",
+    "category": "mental_toughness"
+  },
+  {
+    "id": "builder_010",
+    "type": "builder",
+    "name": "Marcus Garvey",
+    "text": "Garvey built a mass movement with newspapers, shipping lines, and economic programs—organizing people around pride and self-reliance.",
+    "category": "community"
+  },
+  {
+    "id": "builder_011",
+    "type": "builder",
+    "name": "Benjamin Banneker",
+    "text": "Self-taught and self-directed, Banneker built almanacs, astronomical tables, and a reputation for precision that challenged racist assumptions.",
+    "category": "education"
+  },
+  {
+    "id": "builder_012",
+    "type": "builder",
+    "name": "Hannibal Barca",
+    "text": "Hannibal built victory through terrain, timing, and psychology—defeating larger armies by forcing them to fight on his terms.",
+    "category": "strategy"
+  },
+  {
+    "id": "builder_013",
+    "type": "builder",
+    "name": "Mansa Musa",
+    "text": "Musa funded architecture, schools, and trade networks across West Africa—turning Mali into a center of wealth and learning.",
+    "category": "legacy"
+  },
+  {
+    "id": "builder_014",
+    "type": "builder",
+    "name": "Muhammad Ali",
+    "text": "Ali built a global brand on skill, confidence, and conviction—then risked his career to stand on principle outside the ring.",
+    "category": "courage"
+  },
+  {
+    "id": "builder_015",
+    "type": "builder",
+    "name": "Mike Tyson",
+    "text": "Tyson rose from poverty through Cus D'Amato's discipline system—early mornings, repetition, and mental conditioning before fame arrived.",
+    "category": "discipline"
+  },
+  {
+    "id": "builder_016",
+    "type": "builder",
+    "name": "Frederick Douglass",
+    "text": "Douglass built influence through newspapers, speeches, and moral clarity—turning self-education into a platform that moved nations.",
+    "category": "leadership"
+  },
+  {
+    "id": "builder_017",
+    "type": "builder",
+    "name": "Toussaint Louverture",
+    "text": "Louverture organized enslaved fighters into a disciplined force, negotiated alliances, and built the foundation for Haitian independence.",
+    "category": "leadership"
+  },
+  {
+    "id": "builder_018",
+    "type": "builder",
+    "name": "Harriet Tubman",
+    "text": "Tubman built a network of safe routes and trusted allies—turning courage and planning into a system that freed dozens of people.",
+    "category": "courage"
+  },
+  {
+    "id": "builder_019",
+    "type": "builder",
+    "name": "Alexander the Great",
+    "text": "Alexander built loyalty through leading from the front—sharing hardship with his soldiers and moving faster than enemies expected.",
+    "category": "leadership"
+  },
+  {
+    "id": "builder_020",
+    "type": "builder",
+    "name": "Malcolm X",
+    "text": "Malcolm rebuilt himself in prison through reading, debate, and structure—then built organizations that changed how Black America saw itself.",
+    "category": "transformation"
+  },
+  {
+    "id": "builder_021",
+    "type": "builder",
+    "name": "Jeff Bezos",
+    "text": "Bezos built Amazon around customer obsession and long-term reinvestment—not quarterly comfort. He scaled logistics, cloud infrastructure, and retail into systems competitors could not easily copy.",
+    "category": "business"
+  },
+  {
+    "id": "builder_022",
+    "type": "builder",
+    "name": "Sam Walton",
+    "text": "Walton built Walmart by studying small-town logistics, keeping costs low, and iterating store by store. He treated retail like an operations problem, not a branding exercise.",
+    "category": "entrepreneurship"
+  },
+  {
+    "id": "builder_023",
+    "type": "builder",
+    "name": "Walt Disney",
+    "text": "Disney built an empire from animation, theme parks, and storytelling systems that could be repeated at scale. He fused creative vision with production discipline and merchandising infrastructure.",
+    "category": "business"
+  },
+  {
+    "id": "builder_024",
+    "type": "builder",
+    "name": "Ray Kroc",
+    "text": "Kroc did not invent McDonald's—he built the franchise system that made it global. His leverage was standardization: same product, same process, same experience in every location.",
+    "category": "entrepreneurship"
+  },
+  {
+    "id": "builder_025",
+    "type": "builder",
+    "name": "John D. Rockefeller",
+    "text": "Rockefeller built Standard Oil through vertical integration, ruthless efficiency, and control of refining and distribution. He understood that owning the pipeline beats competing on price alone.",
+    "category": "business"
+  },
+  {
+    "id": "builder_026",
+    "type": "builder",
+    "name": "Sara Blakely",
+    "text": "Blakely built Spanx with no outside funding—patenting the product, handling sales herself, and learning retail door by door. She turned a simple idea into a billion-dollar brand through persistence and ownership.",
+    "category": "entrepreneurship"
+  },
+  {
+    "id": "builder_027",
+    "type": "builder",
+    "name": "Steve Jobs",
+    "text": "Jobs built Apple twice—first as a product company, then as a design and ecosystem company. He fused engineering, aesthetics, and distribution into products people did not know they wanted until they used them.",
+    "category": "innovation"
+  },
+  {
+    "id": "builder_028",
+    "type": "builder",
+    "name": "Bill Gates",
+    "text": "Gates built Microsoft by owning the software layer that every PC needed. He focused on platforms, developer lock-in, and relentless iteration—not one product, but the operating system everything ran on.",
+    "category": "business"
+  },
+  {
+    "id": "builder_029",
+    "type": "builder",
+    "name": "Nikola Tesla",
+    "text": "Tesla built the foundation of alternating-current electrical systems that power modern grids. He thought in visions, but his legacy required engineering precision—not just imagination.",
+    "category": "innovation"
+  },
+  {
+    "id": "builder_030",
+    "type": "builder",
+    "name": "Thomas Edison",
+    "text": "Edison built the first industrial research lab—turning invention into a repeatable process. He filed over a thousand patents by testing, failing, and iterating faster than competitors.",
+    "category": "innovation"
+  },
+  {
+    "id": "builder_031",
+    "type": "builder",
+    "name": "George Washington Carver",
+    "text": "Carver built practical agricultural science at Tuskegee—crop rotation, peanut products, and mobile classrooms that reached farmers in the field. His work repaired land and livelihoods at the same time.",
+    "category": "innovation"
+  },
+  {
+    "id": "builder_032",
+    "type": "builder",
+    "name": "Katherine Johnson",
+    "text": "Johnson built NASA's trajectory calculations by hand—precise math that put astronauts into orbit and onto the moon. Her work proved that rigor, not visibility, moves missions forward.",
+    "category": "education"
+  },
+  {
+    "id": "builder_033",
+    "type": "builder",
+    "name": "Grace Hopper",
+    "text": "Hopper built the first compiler and helped create COBOL—making programming accessible beyond raw machine code. She turned computing from a specialist craft into a scalable language problem.",
+    "category": "innovation"
+  },
+  {
+    "id": "builder_034",
+    "type": "builder",
+    "name": "Wernher von Braun",
+    "text": "Von Braun built the Saturn V rocket system that carried Apollo to the moon. His legacy is engineering at scale—thousands of parts, teams, and tests aligned under one launch objective.",
+    "category": "innovation"
+  },
+  {
+    "id": "builder_035",
+    "type": "builder",
+    "name": "Julius Caesar",
+    "text": "Caesar built Roman power through speed, logistics, and political consolidation—crossing the Rubicon when hesitation would have meant defeat. He fused military execution with statecraft.",
+    "category": "strategy"
+  },
+  {
+    "id": "builder_036",
+    "type": "builder",
+    "name": "Napoleon Bonaparte",
+    "text": "Napoleon rebuilt the French army around corps-level mobility and centralized command. He won campaigns by moving faster and concentrating force before enemies could coordinate.",
+    "category": "strategy"
+  },
+  {
+    "id": "builder_037",
+    "type": "builder",
+    "name": "Sun Tzu",
+    "text": "Sun Tzu built a philosophy of war around preparation, deception, and winning without destruction when possible. The Art of War treats conflict as a problem of positioning—not just courage.",
+    "category": "strategy"
+  },
+  {
+    "id": "builder_038",
+    "type": "builder",
+    "name": "Scipio Africanus",
+    "text": "Scipio defeated Hannibal by refusing to fight on Carthage's terms—taking the war to Spain and Africa instead. He built victory through indirect strategy and coalition management.",
+    "category": "strategy"
+  },
+  {
+    "id": "builder_039",
+    "type": "builder",
+    "name": "Dwight Eisenhower",
+    "text": "Eisenhower built Allied coordination for D-Day—aligning generals, navies, air forces, and supply chains under one plan. His strength was systems leadership under impossible complexity.",
+    "category": "leadership"
+  },
+  {
+    "id": "builder_040",
+    "type": "builder",
+    "name": "Isaac Newton",
+    "text": "Newton built the laws of motion and universal gravitation—turning observation into mathematics that described the physical world. He treated nature as a system that could be measured.",
+    "category": "education"
+  },
+  {
+    "id": "builder_041",
+    "type": "builder",
+    "name": "Galileo Galilei",
+    "text": "Galileo built the case for heliocentrism through telescopic observation and mathematical argument. He challenged authority with evidence—and paid a personal price for pursuing truth.",
+    "category": "education"
+  },
+  {
+    "id": "builder_042",
+    "type": "builder",
+    "name": "Albert Einstein",
+    "text": "Einstein built relativity from thought experiments and rigorous mathematics—not laboratory tinkering alone. He redefined space, time, and energy by questioning assumptions others accepted.",
+    "category": "education"
+  },
+  {
+    "id": "builder_043",
+    "type": "builder",
+    "name": "Marie Curie",
+    "text": "Curie built the science of radioactivity through years of painstaking lab work—discovering polonium and radium under poor conditions. She remains the only person to win Nobel Prizes in two sciences.",
+    "category": "education"
+  },
+  {
+    "id": "builder_044",
+    "type": "builder",
+    "name": "Neil deGrasse Tyson",
+    "text": "Tyson built public science literacy through media, institutions, and clear communication—not just research papers. He made astrophysics accessible without dumbing down the discipline.",
+    "category": "education"
+  },
+  {
+    "id": "builder_045",
+    "type": "builder",
+    "name": "W.E.B. Du Bois",
+    "text": "Du Bois built intellectual infrastructure for Black America—the NAACP, scholarly work, and the concept of double consciousness. He argued that full citizenship required education, not just labor.",
+    "category": "institution_building"
+  },
+  {
+    "id": "builder_046",
+    "type": "builder",
+    "name": "James Baldwin",
+    "text": "Baldwin built moral clarity through essays, novels, and public debate—forcing America to confront race, love, and hypocrisy in plain language. His pen was a leadership instrument.",
+    "category": "leadership"
+  },
+  {
+    "id": "builder_047",
+    "type": "builder",
+    "name": "Martin Luther King Jr.",
+    "text": "King built a nonviolent movement through organization, training, and disciplined messaging—turning moral argument into coordinated action. The March on Washington was infrastructure, not just inspiration.",
+    "category": "leadership"
+  },
+  {
+    "id": "builder_048",
+    "type": "builder",
+    "name": "Nelson Mandela",
+    "text": "Mandela built a nation from prison—studying his enemies, negotiating transition, and choosing reconciliation over revenge. Twenty-seven years of preparation preceded one term of presidency.",
+    "category": "leadership"
+  },
+  {
+    "id": "builder_049",
+    "type": "builder",
+    "name": "Kwame Nkrumah",
+    "text": "Nkrumah built Ghana into the first sub-Saharan African nation to gain independence from colonial rule. He tied political freedom to pan-African unity and institution-building at home.",
+    "category": "institution_building"
+  },
+  {
+    "id": "builder_050",
+    "type": "builder",
+    "name": "Jocko Willink",
+    "text": "Willink built discipline culture through military leadership, then translated it into books, podcasts, and business consulting. His message is ownership: no excuses, extreme accountability, daily execution.",
+    "category": "discipline"
+  },
+  {
+    "id": "builder_051",
+    "type": "builder",
+    "name": "Arnold Schwarzenegger",
+    "text": "Schwarzenegger built three careers—bodybuilding, Hollywood, and politics—through visualization, training volume, and relentless self-promotion. He treated each transition like a new campaign to win.",
+    "category": "transformation"
+  },
+  {
+    "id": "builder_052",
+    "type": "builder",
+    "name": "Terry Crews",
+    "text": "Crews rebuilt himself after football—pivoting to acting, art, and advocacy through consistency and reinvention. He speaks openly about discipline, vulnerability, and starting over without shame.",
+    "category": "transformation"
+  },
+  {
+    "id": "builder_053",
+    "type": "builder",
+    "name": "Eric Thomas",
+    "text": "Thomas built a speaking career from homelessness—turning pain into a system of urgency and accountability. His message is blunt: want it as bad as you want to breathe.",
+    "category": "transformation"
+  },
+  {
+    "id": "builder_054",
+    "type": "builder",
+    "name": "Michael Jordan",
+    "text": "Jordan built six championships on practice habits fiercer than his highlight reel. He used failure—getting cut, losing to Detroit—as fuel to rebuild his game year after year.",
+    "category": "discipline"
+  },
+  {
+    "id": "builder_055",
+    "type": "builder",
+    "name": "Usain Bolt",
+    "text": "Bolt built sprint dominance through mechanics, coaching systems, and relaxed execution under pressure. He made world records look easy because the training behind them was not.",
+    "category": "discipline"
+  },
+  {
+    "id": "builder_056",
+    "type": "builder",
+    "name": "Serena Williams",
+    "text": "Serena built a tennis dynasty through power, adaptability, and return from injury again and again. She turned a sport that excluded her family into a platform she owned.",
+    "category": "discipline"
+  },
+  {
+    "id": "builder_057",
+    "type": "builder",
+    "name": "Tom Brady",
+    "text": "Brady built seven Super Bowl rings as an overlooked draft pick—extending his career through nutrition, training, and film study long after peers retired. Longevity was his competitive advantage.",
+    "category": "discipline"
+  }
+]

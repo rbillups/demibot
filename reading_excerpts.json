@@ -1,0 +1,162 @@
+[
+  {
+    "id": "reading_001",
+    "type": "reading_excerpt",
+    "book": "Meditations",
+    "author": "Marcus Aurelius",
+    "text": "You cannot control what happens to you. You can control how you interpret it and how you respond. That is where your power lives.",
+    "category": "stoicism"
+  },
+  {
+    "id": "reading_002",
+    "type": "reading_excerpt",
+    "book": "Meditations",
+    "author": "Marcus Aurelius",
+    "text": "Begin each day by reminding yourself: I will meet meddling, ungrateful, arrogant people today. I can still act with discipline, justice, and purpose.",
+    "category": "discipline"
+  },
+  {
+    "id": "reading_003",
+    "type": "reading_excerpt",
+    "book": "The Republic",
+    "author": "Plato",
+    "text": "Justice is not only laws on paper. It is harmony in the soul—reason guiding spirit and appetite. A just person governs himself before he governs others.",
+    "category": "philosophy"
+  },
+  {
+    "id": "reading_004",
+    "type": "reading_excerpt",
+    "book": "The Republic",
+    "author": "Plato",
+    "text": "The cave allegory: many people mistake shadows for reality. Education is the turn toward light—the painful but necessary process of seeing truth.",
+    "category": "education"
+  },
+  {
+    "id": "reading_005",
+    "type": "reading_excerpt",
+    "book": "The Prince",
+    "author": "Niccolò Machiavelli",
+    "text": "A leader must know when to be feared and when to be loved—but if he must choose, it is safer to be feared than loved if he cannot be both.",
+    "category": "strategy"
+  },
+  {
+    "id": "reading_006",
+    "type": "reading_excerpt",
+    "book": "The Prince",
+    "author": "Niccolò Machiavelli",
+    "text": "Fortune favors the bold. Hesitation often costs more than a well-timed decisive move.",
+    "category": "leadership"
+  },
+  {
+    "id": "reading_007",
+    "type": "reading_excerpt",
+    "book": "The Autobiography of Malcolm X",
+    "author": "Malcolm X",
+    "text": "In prison, Malcolm copied the dictionary word by word. That discipline turned a street hustler into one of the most articulate leaders of his era.",
+    "category": "education"
+  },
+  {
+    "id": "reading_008",
+    "type": "reading_excerpt",
+    "book": "The Autobiography of Malcolm X",
+    "author": "Malcolm X",
+    "text": "Malcolm learned that identity without history is fragile. Understanding where you come from sharpens where you are going.",
+    "category": "identity"
+  },
+  {
+    "id": "reading_009",
+    "type": "reading_excerpt",
+    "book": "Up From Slavery",
+    "author": "Booker T. Washington",
+    "text": "Washington believed progress came through skill, labor, patience, and building institutions—not waiting for permission or perfect conditions.",
+    "category": "discipline"
+  },
+  {
+    "id": "reading_010",
+    "type": "reading_excerpt",
+    "book": "Up From Slavery",
+    "author": "Booker T. Washington",
+    "text": "Success is measured by what you overcome, not by where you start. Character is forged in struggle and sustained through daily work.",
+    "category": "resilience"
+  },
+  {
+    "id": "reading_011",
+    "type": "reading_excerpt",
+    "book": "Narrative of the Life of Frederick Douglass",
+    "author": "Frederick Douglass",
+    "text": "Douglass taught himself to read in secret. Literacy did not just educate him—it armed him with the language to fight for freedom.",
+    "category": "education"
+  },
+  {
+    "id": "reading_012",
+    "type": "reading_excerpt",
+    "book": "Narrative of the Life of Frederick Douglass",
+    "author": "Frederick Douglass",
+    "text": "Without struggle, there is no progress. Douglass showed that moral courage and relentless effort can move systems that seem immovable.",
+    "category": "courage"
+  },
+  {
+    "id": "reading_013",
+    "type": "reading_excerpt",
+    "book": "Black Skin, White Masks",
+    "author": "Frantz Fanon",
+    "text": "Fanon examined how oppression shapes identity and psychology. His work pushes readers to confront internalized limits and reclaim self-definition.",
+    "category": "identity"
+  },
+  {
+    "id": "reading_014",
+    "type": "reading_excerpt",
+    "book": "The Souls of Black Folk",
+    "author": "W.E.B. Du Bois",
+    "text": "Du Bois described double consciousness—the tension of seeing yourself through your own eyes and through a society that misjudges you. Awareness is the first step to mastery.",
+    "category": "mindset"
+  },
+  {
+    "id": "reading_015",
+    "type": "reading_excerpt",
+    "book": "The Souls of Black Folk",
+    "author": "W.E.B. Du Bois",
+    "text": "Education must develop the whole person—mind, character, and purpose—not just train workers for someone else's machine.",
+    "category": "education"
+  },
+  {
+    "id": "reading_016",
+    "type": "reading_excerpt",
+    "book": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "text": "Thoughts become things when backed by desire, faith, and persistent action. Definiteness of purpose separates dreamers from builders.",
+    "category": "business"
+  },
+  {
+    "id": "reading_017",
+    "type": "reading_excerpt",
+    "book": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "text": "The mastermind principle: surround yourself with people who sharpen your thinking, challenge your limits, and hold you accountable to your goals.",
+    "category": "community"
+  },
+  {
+    "id": "reading_018",
+    "type": "reading_excerpt",
+    "book": "The Art of War",
+    "author": "Sun Tzu",
+    "text": "Victorious warriors win first and then go to war. Defeated warriors go to war first and then seek to win. Preparation beats impulse.",
+    "category": "strategy"
+  },
+  {
+    "id": "reading_019",
+    "type": "reading_excerpt",
+    "book": "The Art of War",
+    "author": "Sun Tzu",
+    "text": "Know yourself and know your opponent. A hundred battles, a hundred victories. Ignorance is expensive.",
+    "category": "preparation"
+  },
+  {
+    "id": "reading_020",
+    "type": "reading_excerpt",
+    "book": "The Art of War",
+    "author": "Sun Tzu",
+    "text": "Supreme excellence is breaking the enemy's resistance without fighting. Strategy is about positioning, timing, and leverage—not just force.",
+    "category": "leadership"
+  }
+]

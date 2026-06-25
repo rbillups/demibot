@@ -1,0 +1,463 @@
+[
+    {
+      "type": "clip",
+      "speaker": "Alex Hormozi",
+      "title": "You Are More Disciplined Than You Think",
+      "url": "https://www.youtube.com/shorts/pFxIhhK4rUE",
+      "category": "discipline",
+      "duration": "short"
+    },
+    {
+      "type": "clip",
+      "speaker": "Alex Hormozi",
+      "title": "The Most Valuable 40 Minutes You'll Spend This Year",
+      "url": "https://www.youtube.com/watch?v=PioCzHHYyKs",
+      "category": "business",
+      "duration": "long"
+    },
+    {
+      "type": "clip",
+      "speaker": "Alex Hormozi",
+      "title": "The Only 30 Minutes You Need To Unlock Your Potential",
+      "url": "https://www.youtube.com/watch?v=Unhi8uNBhyI",
+      "category": "potential",
+      "duration": "long"
+    },
+    {
+      "type": "clip",
+      "speaker": "Alex Hormozi",
+      "title": "Entrepreneurship, Discipline, and Work",
+      "url": "https://www.youtube.com/watch?v=lUQ8-L7DfHc",
+      "category": "business",
+      "duration": "medium"
+    },
+    {
+      "type": "clip",
+      "speaker": "Alex Hormozi",
+      "title": "You're Setting Goals the Wrong Way",
+      "url": "https://www.youtube.com/watch?v=fyHlnM1K4rs",
+      "category": "goals",
+      "duration": "medium"
+    },
+    {
+      "type": "clip",
+      "speaker": "Marquett Davon Burton",
+      "title": "Exercise is Prayer",
+      "url": "https://www.youtube.com/shorts/Zojfwx2gUc8",
+      "category": "fitness",
+      "duration": "short"
+    },
+    {
+      "type": "clip",
+      "speaker": "Muhammad Ali",
+      "title": "The Greatest - Muhammad Ali Inspirational Video",
+      "url": "https://www.youtube.com/watch?v=V2EfL1j4KYE",
+      "category": "boxing",
+      "duration": "medium"
+    },
+    {
+      "type": "clip",
+      "speaker": "Muhammad Ali",
+      "title": "I WILL WIN - Powerful Motivational Speech",
+      "url": "https://www.youtube.com/watch?v=5ro71_ffCK8",
+      "category": "confidence",
+      "duration": "medium"
+    },
+    {
+      "type": "clip",
+      "speaker": "Muhammad Ali",
+      "title": "I Am The Greatest - Muhammad Ali Inspirational Video",
+      "url": "https://www.youtube.com/watch?v=0nWd4Nsz-NI",
+      "category": "confidence",
+      "duration": "medium"
+    },
+    {
+      "type": "clip",
+      "speaker": "Muhammad Ali",
+      "title": "Life is Short",
+      "url": "https://www.youtube.com/watch?v=XEcV7Y5gjQA",
+      "category": "purpose",
+      "duration": "medium"
+    },
+    {
+      "type": "clip",
+      "speaker": "Malcolm X",
+      "title": "By Any Means Necessary Speech",
+      "url": "https://www.youtube.com/watch?v=sNhQ1pm-ooc",
+      "category": "conviction",
+      "duration": "long"
+    },
+    {
+      "type": "clip",
+      "speaker": "Malcolm X",
+      "title": "The Ballot or the Bullet Speech",
+      "url": "https://www.youtube.com/watch?v=0ymPLDO0pOA",
+      "category": "history",
+      "duration": "long"
+    },
+    {
+      "type": "clip",
+      "speaker": "Malcolm X",
+      "title": "Malcolm X Interview",
+      "url": "https://www.youtube.com/watch?v=n88ONdIISV4",
+      "category": "history",
+      "duration": "medium"
+    },
+    {
+      "type": "video",
+      "title": "BEST MOTIVATION EVER! The War Mentality",
+      "url": "https://www.youtube.com/watch?v=mF51QH57fvk&t=160s",
+      "category": "discipline",
+      "source_type": "youtube"
+      },
+      {
+      "type": "video",
+      "title": "OBSESSION BEATS TALENT - Michael Jordan Motivational Speech",
+      "url": "https://www.youtube.com/watch?v=gbHiYLAB1ys",
+      "category": "mindset",
+      "source_type": "youtube"
+      },
+      {
+      "type": "video",
+      "title": "Workout Motivation",
+      "url": "https://www.youtube.com/watch?v=ym-ujgIJUxQ",
+      "category": "fitness",
+      "source_type": "youtube"
+      },
+      {
+      "type": "video",
+      "title": "Franklin Saint Motivation Compilation - Snowfall Scenepack",
+      "url": "https://www.youtube.com/watch?v=XBI2Zn2HWbE",
+      "category": "ambition",
+      "source_type": "youtube"
+      },
+      {
+      "type": "video",
+      "title": "5 Books Everyone Should Read",
+      "url": "https://www.youtube.com/watch?v=TPIU398Z24w",
+      "category": "education",
+      "source_type": "youtube"
+      },
+      {
+      "type": "video",
+      "title": "BE UNSHAKEABLE - The Ultimate Stoic Quote Collection",
+      "url": "https://www.youtube.com/watch?v=VCzK1x39iQM",
+      "category": "stoicism",
+      "source_type": "youtube"
+      },
+      {
+      "type": "video",
+      "title": "Marcus Aurelius' Meditations: The Stoic Ideal",
+      "url": "https://www.youtube.com/watch?v=Auuk1y4DRgk",
+      "category": "stoicism",
+      "source_type": "youtube"
+      },
+      {
+      "type": "video",
+      "title": "Great Minds - Plato's Republic I: Justice, Power, and Knowledge",
+      "url": "https://www.youtube.com/watch?v=8rf3uqDj00A",
+      "category": "philosophy",
+      "source_type": "youtube"
+      },
+      {
+      "type": "video",
+      "title": "Verify title",
+      "url": "https://www.youtube.com/watch?v=QNv70BtaWDM&t=1s",
+      "category": "motivation",
+      "source_type": "youtube",
+      "verify_title": true
+      },
+      {
+      "type": "video",
+      "title": "Verify title",
+      "url": "https://www.youtube.com/watch?v=K60SGlXtjGw",
+      "category": "motivation",
+      "source_type": "youtube",
+      "verify_title": true
+      },
+      {
+      "type": "video",
+      "title": "Machiavelli",
+      "url": "https://www.youtube.com/watch?v=mU7hdGKOGyk",
+      "category": "strategy",
+      "source_type": "youtube"
+      },
+      {
+      "type": "video",
+      "title": "Verify title - Playlist video",
+      "url": "https://www.youtube.com/watch?v=zXRS4BIf8Qw&list=PLcARouddDYJV2be5XYSAtC20Zpjc-jwik&index=2",
+      "category": "philosophy",
+      "source_type": "youtube",
+      "verify_title": true
+      },
+      {
+      "type": "video",
+      "title": "You Have To Stop Being So Weak",
+      "url": "https://www.youtube.com/watch?v=xOQ0xnMj4gY",
+      "category": "mental_toughness",
+      "source_type": "youtube"
+      },
+      {
+      "type": "video",
+      "title": "THE 4 MINUTE SPEECH THAT WILL CHANGE YOUR LIFE | David Goggins",
+      "url": "https://www.youtube.com/watch?v=JV8mIfjwPeM",
+      "category": "discipline",
+      "source_type": "youtube"
+      },
+      {
+      "type": "video",
+      "title": "The Enslaved Black Man Who FOUGHT Back",
+      "url": "https://www.youtube.com/watch?v=qm2dOE-Twf8",
+      "category": "black_history",
+      "source_type": "youtube"
+      },
+      {
+      "type": "video",
+      "title": "17 Minutes of David Goggins Telling You The Truth",
+      "url": "https://www.youtube.com/watch?v=eCVL7FnNCEw",
+      "category": "mental_toughness",
+      "source_type": "youtube"
+      },
+      {
+      "type": "video",
+      "title": "TO GROW YOU MUST SUFFER - Jordan Peterson Motivation",
+      "url": "https://www.youtube.com/watch?v=gfo7iDKpL_c",
+      "category": "resilience",
+      "source_type": "youtube"
+      },
+      {
+      "type": "video",
+      "title": "The Brilliant Arrogance of Nietzsche | Jordan B. Peterson",
+      "url": "https://www.youtube.com/watch?v=h2n756iAgX0",
+      "category": "philosophy",
+      "source_type": "youtube"
+      },
+      {
+        "type": "video",
+        "title": "Frederick Douglass: In Five Speeches | HBO",
+        "url": "https://www.youtube.com/watch?v=ib_hT2g4wJE",
+        "category": "black_history",
+        "source_type": "youtube"
+        },
+        {
+        "type": "video",
+        "title": "Frederick Douglass Self-Made Men Speech",
+        "url": "https://www.youtube.com/watch?v=WyNqMHREtyQ",
+        "category": "self_improvement",
+        "source_type": "youtube"
+        },
+        {
+        "type": "video",
+        "title": "9 Lessons That Will Change Your Life in 20 Minutes (From Marcus Aurelius)",
+        "url": "https://www.youtube.com/watch?v=7DH57uXWEjI",
+        "category": "stoicism",
+        "source_type": "youtube"
+        },
+        {
+        "type": "video",
+        "title": "Marcus Aurelius - How To Think Clearly (Stoicism)",
+        "url": "https://www.youtube.com/watch?v=HXOOcKnspVg",
+        "category": "mindset",
+        "source_type": "youtube"
+        },
+        {
+        "type": "video",
+        "title": "Marcus Aurelius - How To Stop Taking Things Personally",
+        "url": "https://www.youtube.com/watch?v=DfdtHERottY",
+        "category": "emotional_control",
+        "source_type": "youtube"
+        },
+        {
+        "type": "video",
+        "title": "When Life Hurts, Care Less About It | The Philosophy of Marcus Aurelius",
+        "url": "https://www.youtube.com/watch?v=LGXRpbDuDGE",
+        "category": "resilience",
+        "source_type": "youtube"
+        },
+        {
+        "type": "video",
+        "title": "Niccolò Machiavelli - 6 Powerful Ways to Command Instant Respect",
+        "url": "https://www.youtube.com/watch?v=w5nJ4XIHv5Q",
+        "category": "strategy",
+        "source_type": "youtube"
+        },
+        {
+        "type": "video",
+        "title": "How To Succeed With Zero Support – Machiavelli",
+        "url": "https://www.youtube.com/watch?v=XUbTWesOzXc",
+        "category": "independence",
+        "source_type": "youtube"
+        },
+        {
+        "type": "video",
+        "title": "The Dark Philosophy of Niccolo Machiavelli | Mini Documentary",
+        "url": "https://www.youtube.com/watch?v=sP9VKJaqiN8",
+        "category": "philosophy",
+        "source_type": "youtube"
+        },
+        {
+        "type": "video",
+        "title": "Discipline Your Mind - David Goggins Motivational Speech",
+        "url": "https://www.youtube.com/watch?v=aIVvx9kNOqw",
+        "category": "discipline",
+        "source_type": "youtube"
+        },
+        {
+        "type": "video",
+        "title": "Consistency & Discipline - David Goggins Motivational Speech",
+        "url": "https://www.youtube.com/watch?v=fFeAeYb0W60",
+        "category": "consistency",
+        "source_type": "youtube"
+        },
+        {
+        "type": "video",
+        "title": "Discipline Your Mind to Find Peace - David Goggins Motivational Speech",
+        "url": "https://www.youtube.com/watch?v=PRVsVhGAEB4",
+        "category": "mental_toughness",
+        "source_type": "youtube"
+        },
+        {
+          "type": "video",
+          "title": "The Moment That Changed David Goggins' Life Forever",
+          "url": "https://www.youtube.com/shorts/Xi2_mPP2yAo",
+          "category": "discipline",
+          "source_type": "youtube",
+          "video_format": "short"
+          },
+          {
+          "type": "video",
+          "title": "Because You're Not | David Goggins Motivation",
+          "url": "https://www.youtube.com/shorts/oKEqarvUAvw",
+          "category": "mental_toughness",
+          "source_type": "youtube",
+          "video_format": "short"
+          },
+          {
+          "type": "video",
+          "title": "Don't Be Normal | David Goggins",
+          "url": "https://www.youtube.com/shorts/awpbZJWzYVk",
+          "category": "discipline",
+          "source_type": "youtube",
+          "video_format": "short"
+          },
+          {
+          "type": "video",
+          "title": "David Goggins: Motivation, Discipline, Values",
+          "url": "https://www.youtube.com/shorts/jputesZQYxw",
+          "category": "discipline",
+          "source_type": "youtube",
+          "video_format": "short"
+          },
+          {
+          "type": "video",
+          "title": "David Goggins Shares His Favorite Calisthenics Workout",
+          "url": "https://www.youtube.com/shorts/xJ3Ma3WUrqc",
+          "category": "fitness",
+          "source_type": "youtube",
+          "video_format": "short"
+          },
+          {
+          "type": "video",
+          "title": "Your Mind Quits Way Before Your Body | David Goggins",
+          "url": "https://www.youtube.com/shorts/-pcQjdnH-Ho",
+          "category": "resilience",
+          "source_type": "youtube",
+          "video_format": "short"
+          },
+          {
+          "type": "video",
+          "title": "David Goggins Self-Discipline",
+          "url": "https://www.youtube.com/shorts/1Pr2KjQDvyU",
+          "category": "self_control",
+          "source_type": "youtube",
+          "video_format": "short"
+          },
+          {
+          "type": "video",
+          "title": "Discipline Yourself, Be an Honest Person | David Goggins",
+          "url": "https://www.youtube.com/shorts/n9ACCwuurrM",
+          "category": "integrity",
+          "source_type": "youtube",
+          "video_format": "short"
+          },
+          {
+          "type": "video",
+          "title": "No Excuses | Eric Thomas, Jocko Willink, Inky Johnson, David Goggins",
+          "url": "https://www.youtube.com/shorts/eWg6k3NqBtE",
+          "category": "execution",
+          "source_type": "youtube",
+          "video_format": "short"
+          },
+          {
+          "type": "video",
+          "title": "This One Line from Marcus Aurelius Will Hit You",
+          "url": "https://www.youtube.com/shorts/jYmaDiwgN6g",
+          "category": "stoicism",
+          "source_type": "youtube",
+          "video_format": "short"
+          },
+          {
+          "type": "video",
+          "title": "Marcus Aurelius' Secret to Wisdom: Never Stop Learning",
+          "url": "https://www.youtube.com/shorts/I6yiOcmdzhI",
+          "category": "education",
+          "source_type": "youtube",
+          "video_format": "short"
+          },
+          {
+          "type": "video",
+          "title": "Famous Marcus Aurelius Quotes",
+          "url": "https://www.youtube.com/shorts/Jj5dnlncn-o",
+          "category": "mindset",
+          "source_type": "youtube",
+          "video_format": "short"
+          },
+          {
+          "type": "video",
+          "title": "Life Rule From the Stoic Emperor Marcus Aurelius",
+          "url": "https://www.youtube.com/shorts/jvmwpSwwA6o",
+          "category": "stoicism",
+          "source_type": "youtube",
+          "video_format": "short"
+          },
+          {
+          "type": "video",
+          "title": "The Power of Silence | Marcus Aurelius Stoicism",
+          "url": "https://www.youtube.com/shorts/FW8sODiys3s",
+          "category": "emotional_control",
+          "source_type": "youtube",
+          "video_format": "short"
+          },
+          {
+          "type": "video",
+          "title": "Frederick Douglass in His Own Words: On Patriotism",
+          "url": "https://www.youtube.com/shorts/Duu2cnbsQvY",
+          "category": "black_history",
+          "source_type": "youtube",
+          "video_format": "short"
+          },
+          {
+          "type": "video",
+          "title": "Frederick Douglass: Reading and the Pursuit of Justice",
+          "url": "https://www.youtube.com/shorts/UXEDuE0vxtU",
+          "category": "education",
+          "source_type": "youtube",
+          "video_format": "short"
+          },
+          {
+          "type": "video",
+          "title": "Malcolm X: First British Interview",
+          "url": "https://www.youtube.com/shorts/Iion_cCF2-w",
+          "category": "black_history",
+          "source_type": "youtube",
+          "video_format": "short"
+          },
+          {
+          "type": "video",
+          "title": "Malcolm X Explains Identity and History",
+          "url": "https://www.youtube.com/shorts/qb7_8Mc9bFM",
+          "category": "black_history",
+          "source_type": "youtube",
+          "video_format": "short"
+          }
+  ]
